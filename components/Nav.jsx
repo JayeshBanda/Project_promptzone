@@ -29,7 +29,7 @@ const Nav = () => {
           height={30}
           className="object-contain"
         />
-        <p className="logo_text">IntelliPrompts</p>
+        <p className="logo_text">Promptzone</p>
       </Link>
 
       {/* Desktop Navigation */}
